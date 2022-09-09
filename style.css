@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    float: right;
+    margin-top: 15px;
+    width: 50%;
+
+}
